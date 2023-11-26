@@ -2,7 +2,7 @@
     <div class="intDesigner-hero__area-bg">
         <div class="intDesigner-hero__overlay"></div>
         <div class="has_image_zoom cf_image h-100 overflow-hidden">
-        <img src="assets/imgs/interior-designer/hero-bg.jpg" alt="">
+        <img src="{{asset('assets/imgs/interior-designer/hero-bg.jpg')}}" alt="">
         </div>
     </div>
     <div class="container">

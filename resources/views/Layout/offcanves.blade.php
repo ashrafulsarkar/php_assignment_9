@@ -4,8 +4,8 @@
       <div class="offcanvas__body">
         <div class="offcanvas__logo">
           <a href="index.html">
-            <img src="assets/imgs/logo/site-logo-light.png" class="show-dark" alt="Offcanvas Logo">
-            <img src="assets/imgs/logo/site-logo-dark.png" class="show-light" alt="Offcanvas Logo">
+            <img src="{{asset('assets/imgs/logo/site-logo-light.png')}}" class="show-dark" alt="Offcanvas Logo">
+            <img src="{{asset('assets/imgs/logo/site-logo-dark.png')}}" class="show-light" alt="Offcanvas Logo">
           </a>
           <p>Create live segments and target the right people for messages based on their behaviors.</p>
         </div>
@@ -17,27 +17,27 @@
           <p class="offcanvas__title">gallery</p>
           <div class="gallery__items">
             <div class="gallery__item">
-              <a href="#"><img src="assets/imgs/thumb/gallery.jpg" alt="gallery Image">
+              <a href="#"><img src="{{asset('assets/imgs/thumb/gallery.jpg')}}" alt="gallery Image">
                 <span><i class="fa-brands fa-instagram"></i></span></a>
             </div>
             <div class="gallery__item">
-              <a href="#"><img src="assets/imgs/thumb/gallery-2.jpg" alt="gallery Image">
+              <a href="#"><img src="{{asset('assets/imgs/thumb/gallery-2.jpg')}}" alt="gallery Image">
                 <span><i class="fa-brands fa-instagram"></i></span></a>
             </div>
             <div class="gallery__item">
-              <a href="#"><img src="assets/imgs/thumb/gallery-3.jpg" alt="gallery Image">
+              <a href="#"><img src="{{asset('assets/imgs/thumb/gallery-3.jpg')}}" alt="gallery Image">
                 <span><i class="fa-brands fa-instagram"></i></span></a>
             </div>
             <div class="gallery__item">
-              <a href="#"><img src="assets/imgs/thumb/gallery-4.jpg" alt="gallery Image">
+              <a href="#"><img src="{{asset('assets/imgs/thumb/gallery-4.jpg')}}" alt="gallery Image">
                 <span><i class="fa-brands fa-instagram"></i></span></a>
             </div>
             <div class="gallery__item">
-              <a href="#"><img src="assets/imgs/thumb/gallery-5.jpg" alt="gallery Image">
+              <a href="#"><img src="{{asset('assets/imgs/thumb/gallery-5.jpg')}}" alt="gallery Image">
                 <span><i class="fa-brands fa-instagram"></i></span></a>
             </div>
             <div class="gallery__item">
-              <a href="#"><img src="assets/imgs/thumb/gallery-6.jpg" alt="gallery Image">
+              <a href="#"><img src="{{asset('assets/imgs/thumb/gallery-6.jpg')}}" alt="gallery Image">
                 <span><i class="fa-brands fa-instagram"></i></span></a>
             </div>
           </div>

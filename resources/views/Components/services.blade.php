@@ -61,7 +61,7 @@
                 <div class="intDesigner-service__content">
                 <a href="service-details.html">
                     <div class="cf_image intDesigner-service__hoverImg img_anim_reveal">
-                    <img src="assets/imgs/interior-designer/service-01.jpg" alt="service image">
+                    <img src="{{asset('assets/imgs/interior-designer/service-01.jpg')}}" alt="service image">
                     </div>
                 </a>
                 <div class="cf_text intDesigner-service__text has_fade_anim">
@@ -79,7 +79,7 @@
                 <div class="intDesigner-service__content">
                 <a href="service-details.html">
                     <div class="cf_image intDesigner-service__hoverImg img_anim_reveal">
-                    <img src="assets/imgs/interior-designer/service-02.jpg" alt="service image">
+                    <img src="{{asset('assets/imgs/interior-designer/service-02.jpg')}}" alt="service image">
                     </div>
                 </a>
                 <div class="cf_text intDesigner-service__text has_fade_anim">
@@ -97,7 +97,7 @@
                 <div class="intDesigner-service__content">
                 <a href="service-details.html">
                     <div class="cf_image intDesigner-service__hoverImg img_anim_reveal">
-                    <img src="assets/imgs/interior-designer/service-03.jpg" alt="service image">
+                    <img src="{{asset('assets/imgs/interior-designer/service-03.jpg')}}" alt="service image">
                     </div>
                 </a>
                 <div class="cf_text intDesigner-service__text has_fade_anim">
@@ -115,7 +115,7 @@
                 <div class="intDesigner-service__content">
                 <a href="service-details.html">
                     <div class="cf_image intDesigner-service__hoverImg img_anim_reveal">
-                    <img src="assets/imgs/interior-designer/service-04.jpg" alt="service image">
+                    <img src="{{asset('assets/imgs/interior-designer/service-04.jpg')}}" alt="service image">
                     </div>
                 </a>
                 <div class="cf_text intDesigner-service__text has_fade_anim">
@@ -133,7 +133,7 @@
                 <div class="intDesigner-service__content">
                 <a href="service-details.html">
                     <div class="cf_image intDesigner-service__hoverImg img_anim_reveal">
-                    <img src="assets/imgs/interior-designer/service-05.jpg" alt="service image">
+                    <img src="{{asset('assets/imgs/interior-designer/service-05.jpg')}}" alt="service image">
                     </div>
                 </a>
                 <div class="cf_text intDesigner-service__text has_fade_anim">

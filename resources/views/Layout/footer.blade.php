@@ -6,8 +6,8 @@
                 <div class="footer__widget">
                   <div class="intDesigner-footer__logo">
                     <a href="index-2.html">
-                      <img src="assets/imgs/interior-designer/logo.png" class="show-dark" alt="Site Logo">
-                      <img src="assets/imgs/interior-designer/logo-dark.png" class="show-light" alt="Site Logo">
+                      <img src="{{asset('assets/imgs/interior-designer/logo.png')}}" class="show-dark" alt="Site Logo">
+                      <img src="{{asset('assets/imgs/interior-designer/logo-dark.png')}}" class="show-light" alt="Site Logo">
                     </a>
                   </div>
                 </div>
@@ -50,8 +50,8 @@
                 </div>
                 <div class="intDesigner__go-top">
                   <a href="#" class="go-top__btn">
-                    Go Top <div class="cf_image"><img src="assets/imgs/interior-designer/arrow-up.png"
-                        class="show-dark" alt=""><img src="assets/imgs/interior-designer/arrow-up-dark.png"
+                    Go Top <div class="cf_image"><img src="{{asset('assets/imgs/interior-designer/arrow-up.png')}}"
+                        class="show-dark" alt=""><img src="{{asset('assets/imgs/interior-designer/arrow-up-dark.png')}}"
                         class="show-light" alt="">
                     </div>
                   </a>

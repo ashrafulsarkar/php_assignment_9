@@ -14,8 +14,8 @@
         </div>
         <div class="">
             <div class="cf_image award-badge has_fade_anim">
-            <img src="assets/imgs/interior-designer/award-badge.png" class="show-dark" alt="">
-            <img src="assets/imgs/interior-designer/award-badge-dark.png" class="show-light" alt="">
+            <img src="{{asset('assets/imgs/interior-designer/award-badge.png')}}" class="show-dark" alt="">
+            <img src="{{asset('assets/imgs/interior-designer/award-badge-dark.png')}}" class="show-light" alt="">
             </div>
             <div class="cf_text intDesigner-award__text has_fade_anim">
             <p>Working for almost 10 years, when that presents

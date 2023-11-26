@@ -12,7 +12,7 @@
             <div class="intDesigner-portfolio__thumb">
                 <a href="#">
                 <div class="cf_image">
-                    <img src="assets/imgs/interior-designer/project-1.jpg" alt="Portfolio Image">
+                    <img src="{{asset('assets/imgs/interior-designer/project-1.jpg')}}" alt="Portfolio Image">
                 </div>
                 </a>
             </div>
@@ -30,7 +30,7 @@
             <div class="intDesigner-portfolio__thumb">
                 <a href="#">
                 <div class="cf_image">
-                    <img src="assets/imgs/interior-designer/project-3.jpg" alt="Portfolio Image">
+                    <img src="{{asset('assets/imgs/interior-designer/project-3.jpg')}}" alt="Portfolio Image">
                 </div>
                 </a>
             </div>
@@ -48,7 +48,7 @@
             <div class="intDesigner-portfolio__thumb">
                 <a href="#">
                 <div class="cf_image">
-                    <img src="assets/imgs/interior-designer/project-5.jpg" alt="Portfolio Image">
+                    <img src="{{asset('assets/imgs/interior-designer/project-5.jpg')}}" alt="Portfolio Image">
                 </div>
                 </a>
             </div>
@@ -66,7 +66,7 @@
             <div class="intDesigner-portfolio__thumb">
                 <a href="#">
                 <div class="cf_image">
-                    <img src="assets/imgs/interior-designer/project-2.jpg" alt="Portfolio Image">
+                    <img src="{{asset('assets/imgs/interior-designer/project-2.jpg')}}" alt="Portfolio Image">
                 </div>
                 </a>
             </div>
@@ -84,7 +84,7 @@
             <div class="intDesigner-portfolio__thumb">
                 <a href="#">
                 <div class="cf_image">
-                    <img src="assets/imgs/interior-designer/project-4.jpg" alt="Portfolio Image">
+                    <img src="{{asset('assets/imgs/interior-designer/project-4.jpg')}}" alt="Portfolio Image">
                 </div>
                 </a>
             </div>
@@ -102,7 +102,7 @@
             <div class="intDesigner-portfolio__thumb">
                 <a href="#">
                 <div class="cf_image">
-                    <img src="assets/imgs/interior-designer/project-6.jpg" alt="Portfolio Image">
+                    <img src="{{asset('assets/imgs/interior-designer/project-6.jpg')}}" alt="Portfolio Image">
                 </div>
                 </a>
             </div>
